@@ -1,0 +1,20 @@
+*{margin: 0;
+    padding:0;
+    box-sizing: border-box;}
+  
+  .container{ width: 90%;
+               
+              display: flex;
+              flex-wrap: wrap;
+              flex-direction: row;
+               
+            }
+
+ img{width:425px
+    }
+
+   .sub_container{padding: 1%;
+    
+                }
+
+
